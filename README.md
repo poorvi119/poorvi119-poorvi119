@@ -37,7 +37,7 @@ Programs for analyzing datasets.
 
 ### 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=poorvi119&show_icons=true&theme=tokyonight)
 
 ---
 
