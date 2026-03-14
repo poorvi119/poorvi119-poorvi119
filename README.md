@@ -46,3 +46,12 @@ Programs for analyzing datasets.
 LinkedIn:  
 GitHub:  
 Portfolio:
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter)
+![Machine Learning](https://img.shields.io/badge/MachineLearning-102230?style=for-the-badge)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=poorvi119&layout=compact)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=poorvi119)
