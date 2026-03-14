@@ -5,11 +5,7 @@
 
 ### 👩‍💻 About Me
 
-- 🎓 Electrical Engineering Student at **FCRIT**
-- 💻 Pursuing **BS in Data Science from IIT Madras**
-- 🌱 Currently learning **Python, Machine Learning, and Data Science**
-- 🚀 Interested in **AI, Semiconductors, and NVIDIA chips**
-- 🎤 Passionate about **public speaking and leadership**
+Aspiring Machine Learning engineer and Data Science student at IIT Madras (2026) with a strong interest in Python, AI, and data-driven problem solving. Focused on learning, building projects, and continuously improving technical skills.
 
 ---
 
