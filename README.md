@@ -5,7 +5,7 @@
 
 ### 👩‍💻 About Me
 
-Aspiring Machine Learning engineer and Data Science student at IIT Madras (2026) with a strong interest in Python, AI, and data-driven problem solving. Focused on learning, building projects, and continuously improving technical skills.
+Aspiring Machine Learning engineer and Data Science student with a strong interest in Python, AI, and data-driven problem solving. Focused on learning, building projects, and continuously improving technical skills.
 
 ---
 
